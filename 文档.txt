@@ -26,6 +26,22 @@ git reset --hard 2d2250  Ç¿ÖÆ»Øµ½Ç°ÃæµÄ×´Ì¬     2d2250ÎªcommitµÄÇ°Ãæ6Î»¹şÏ£Öµ  ¾
 
 git push -u origin master   //ÍÆËÍµ½Ô¶³Ì¶ËµÄÖ÷·ÖÖ§masterÉÏ
 
+git pull origin master   //´ÓÔ¶³ÌÀ²»Ø³ÌĞò
+
+
+git branch  ²é¿´µ±Ç°°æ±¾¿â·ÖÖ§
+
+git branch v2  ´´½¨v2·ÖÖ§´ÓmasterÀ´µÄ
+
+git checkout v2  ÇĞ»»µ½v2Õâ¸ö·ÖÖ§
+
+git push -u origin v2   //ÍÆËÍµ½Ô¶³Ì¶ËµÄv2·ÖÖ§ÉÏ
+
+
+
+
+
+gist.github.com
 
 
 
